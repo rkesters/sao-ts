@@ -1,6 +1,6 @@
 {
   "name": "@rkesters/sao-ts",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Scaffold out a Typescript project.",
   "repository": {
     "url": "rkesters/sao-ts",
